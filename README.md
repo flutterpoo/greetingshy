@@ -1,4 +1,4 @@
-# 😝 Fluttershy themed Greeting
+# 😝 Greetingshy
 Just a simple n smol paper plugin that makes the join/leave msg cute n fluttershy themed hehe cus i love fluttershy.
 
 Instead of smt like "ILoveHotMoms67 joined the game" it shows a lil bordered message with a random phrase and a kaomoji.
