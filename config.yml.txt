@@ -1,24 +1,24 @@
-# FluttershyGreetings config
-# Everything here is plain text and color codes (the & symbol) — reword it,
-# add phrases, or delete them freely. {player} gets replaced with whoever
+# Greeting config
+# Everything here is js simple text n color codes (the & symbol)
+# Add or change wtv u want. {player} gets replaced with whoever
 # joined or left. One phrase from each list is picked at random every time,
-# so it won't feel repetitive. Restart the server (or /reload confirm)
-# after making changes.
+# so it won't feel repetitive. Restart da server (or /reload confirm)
+# after changing.
 
 join-border: "&d~*~*~*~ &f✿ &d~*~*~*~"
-join-face: "(◕‿◕)"
+join-face: "(>⩊<)"
 join-phrases:
-  - "&f{player} &7drifted in on a gentle breeze"
-  - "&f{player} &7tiptoed into the meadow"
-  - "&f{player} &7peeked out from behind a leaf"
-  - "&f{player} &7landed softly, like a butterfly"
-  - "&f{player} &7arrived, quiet as morning dew"
+  - "&f{player} &7came bc they finished brainrotting"
+  - "&f{player} &7barged into the room"
+  - "&f{player} &7came out of their mother's basement"
+  - "&f{player} &7arrived to touch grass"
+  - "&f{player} &7forgot to shower"
 
 leave-border: "&d~*~*~*~ &f✿ &d~*~*~*~"
-leave-face: "(._.)"
+leave-face: "(ᗜ⩊ᗜ)"
 leave-phrases:
-  - "&f{player} &7slipped quietly back into the bushes"
-  - "&f{player} &7fluttered off into the sunset"
-  - "&f{player} &7went to go hide somewhere cozy"
-  - "&f{player} &7drifted away on the wind"
-  - "&f{player} &7tucked in for a little nap"
+  - "&f{player} &7went to find their vape"
+  - "&f{player} &7gone to have a smoke break"
+  - "&f{player} &7went to get milk"
+  - "&f{player} &7is finally going to shower"
+  - "&f{player} &7lost all their aura"
