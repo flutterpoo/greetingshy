@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.flutterpoo</groupId>
-    <artifactId>greeting-fluttershy</artifactId>
+    <artifactId>greetingshy</artifactId>
     <version>0.1</version>
     <packaging>jar</packaging>
 
