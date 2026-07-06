@@ -1,4 +1,4 @@
-# FluttershyGreetings
+# Fluttershy themed Greeting
 
 A small Paper plugin that swaps the default join/leave messages for something quieter.
 
