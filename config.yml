@@ -5,7 +5,7 @@
 # so it won't feel repetitive. Restart da server (or /reload confirm)
 # after changing.
 
-join-border: "&d~*~*~*~ &f✿ &d~*~*~*~"
+join-border: "&d✦•--┈๑⋅⋯ &f✿ &d⋯⋅๑┈--•✦"
 join-face: "(>⩊<)"
 join-phrases:
   - "&f{player} &7came bc they finished brainrotting"
@@ -14,7 +14,7 @@ join-phrases:
   - "&f{player} &7arrived to touch grass"
   - "&f{player} &7forgot to shower"
 
-leave-border: "&d~*~*~*~ &f✿ &d~*~*~*~"
+leave-border: "&d✦•--┈๑⋅⋯ &f✿ &d⋯⋅๑┈--•✦"
 leave-face: "(ᗜ⩊ᗜ)"
 leave-phrases:
   - "&f{player} &7went to find their vape"
