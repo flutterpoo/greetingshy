@@ -1,6 +1,6 @@
 name: greeting-fluttershy
 version: 0.1
-main: com.yourname.fluttershy.Main
+main: com.flutterpoo.fluttershy.Main
 api-version: '1.20'
 author: flutterpoo
 description: goofy ahh join msgs with cute theme
