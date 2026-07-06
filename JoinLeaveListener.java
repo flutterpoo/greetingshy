@@ -1,4 +1,4 @@
-package com.yourname.fluttershy;
+package com.flutterpoo.fluttershy;
 
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
@@ -22,7 +22,7 @@ public class JoinLeaveListener implements Listener {
     @EventHandler
     public void onJoin(PlayerJoinEvent event) {
         Player player = event.getPlayer();
-        String template = randomPhrase("join-phrases", "&f{player} &7arrived quietly");
+        String template = randomPhrase("join-phrases", "&f{player} &7arrived");
         String border = plugin.getConfig().getString("join-border", "&d~*~*~*~");
         String face = plugin.getConfig().getString("join-face", "(o.o)");
 
@@ -32,7 +32,7 @@ public class JoinLeaveListener implements Listener {
     @EventHandler
     public void onQuit(PlayerQuitEvent event) {
         Player player = event.getPlayer();
-        String template = randomPhrase("leave-phrases", "&f{player} &7slipped away quietly");
+        String template = randomPhrase("leave-phrases", "&f{player} &7slipped away");
         String border = plugin.getConfig().getString("leave-border", "&d~*~*~*~");
         String face = plugin.getConfig().getString("leave-face", "(._.)");
 
