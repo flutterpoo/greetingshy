@@ -5,10 +5,10 @@ Instead of smt like "ILoveHotMoms67 joined the game" it shows a lil bordered mes
 
 ## 🌸 What it should look like!!
 ```
-        ~*~*~*~ ✿ ~*~*~*~
+         ✦•--┈๑⋅⋯  ✿ ⋯⋅๑┈--•✦
  Steve came out of their mom's basement
                (◕‿◕)
-         ~*~*~*~ ✿ ~*~*~*~
+         ✦•--┈๑⋅⋯  ✿ ⋯⋅๑┈--•✦
 ```
 
 Leave messages uses the same layout but has a diff kaomoji and phrase.
