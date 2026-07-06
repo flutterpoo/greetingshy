@@ -1,6 +1,6 @@
-name: FluttershyGreetings
-version: 1.0.0
+name: greetingfluttershy
+version: 0.1
 main: com.yourname.fluttershy.Main
 api-version: '1.20'
-author: YourName
-description: Soft, gentle join and leave messages with a Fluttershy-inspired theme.
+author: flutterpoo
+description: goofy ahh join msgs with cute theme
